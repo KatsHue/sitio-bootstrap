@@ -4,6 +4,6 @@
 
 Sitio web libre hecho con bootsrap. <br><br> Clase: <strong>Programación para Internet 2025B<strong>
 
-<a href="https://katshue.github.io/adivina-el-numero/" target="_blank"><strong>🎯 Demo </strong></a>
+<a href="https://katshue.github.io/adivina-el-numero/" target="_blank"><strong>💻 Demo </strong></a>
 
 </div>
